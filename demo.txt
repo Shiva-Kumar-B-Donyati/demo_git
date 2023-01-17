@@ -4,6 +4,7 @@ line 2
 line 3
 line 4
 line 5
+<<<<<<< HEAD
 line 6
 line 7
 line 8
@@ -12,3 +13,9 @@ line 10
 line 11
 line 12
 line 13
+=======
+line 6 added from remote repo
+line 7 added from remote repo
+line 8 added from remote repo
+line 9 added from remote repo
+>>>>>>> origin/master
